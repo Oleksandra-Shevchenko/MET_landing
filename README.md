@@ -1,5 +1,5 @@
 # MET landing page
-
+```
 - [DEMO LINK](https://oleksandra-shevchenko.github.io/layout_miami/) 
 
 - [MOCKUP](https://www.figma.com/file/lSR1m42L9YwzQwzzxKwHpw/THE-MET)  
